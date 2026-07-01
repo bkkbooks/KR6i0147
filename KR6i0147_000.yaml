@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0147/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說末羅王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0517.xml
+    old_id: T14n0517
+hash: sha256:8f3d3d93f7a42f0b803affb92f1543f780300714fadda537d14621e960b9f96c
